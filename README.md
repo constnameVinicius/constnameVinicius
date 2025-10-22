@@ -13,9 +13,9 @@
 
 ## 👋 Hello! I'm Vinícius Silva
 
-- 🎓 I'm currently studying **Analys & Systems Development (Associate's Degree).
+- 🎓 I'm currently studying **Analys & Systems Development (Associate's Degree)**.
 - 💡 I'm passionate about **Full-Stack Development and Data Analysis**.
-- 📧 You can reach me at **[viniciussilva00514@gmail.com]**.
+- 📧 You can reach me at **viniciussilva00514@gmail.com**.
 - Pronouns: **He/Him**
 
 ---
@@ -51,7 +51,7 @@
 ### 👨‍💻 Programming Languages:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,c#" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,C#,csharp" />
   </a>
 </p>
 
@@ -62,17 +62,16 @@
   </a>
 </p>
 
-### 🛢️ Databases & Data Science:
+### 🛢️ Databases
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
-
-### ☁️ Cloud & DevOps:
+### 🧰 Tools e IDEs:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea" />
   </a>
 </p>
 
@@ -95,9 +94,14 @@
       </a>
     </td>
     <td>
-      <strong>[Your Job Title]</strong> <br>
-      <a href="[Link to Company Website]"><strong>[Company Name]</strong></a> • [Duration, e.g., 1 year 3 months] <br>
-      Focused on <strong>[Your Main Responsibility Area]</strong>, working with technologies like [Tech 1], [Tech 2], and [Tech 3].
+      <strong>Electronic Trading Desk</strong> <br>
+      <a href="[Link to Company Website]"><strong>CM Capital Markets</strong></a> • Present<br>
+      Focused on:
+        <ul>
+            <li>Data and electronic order analysis using the FIX (Financial Information eXchange) Protocol format.</li>
+            <li>Financial data manipulation using spreadsheets (Excel, including macros/VBA).</li>
+            <li>Generation of monthly reports in Excel using data from trading platforms, extracted via FTP server or database.</li>
+        </ul>
     </td>
   </tr>
   <tr>
