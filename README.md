@@ -68,7 +68,8 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
-### 🧰 Tools e IDEs:
+
+### 🧰 Tools/IDEs
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea" />
