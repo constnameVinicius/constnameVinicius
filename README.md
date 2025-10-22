@@ -91,30 +91,18 @@
   <tr>
     <td width="120px">
       <a href="[Link to Company Website]">
-        <img align="left" height="94px" width="94px" alt="[Company Name]" src="[URL to Company Logo]"/>
+        <img align="left" height="94px" width="94px" alt="CM Capital Markets" src="https://yt3.googleusercontent.com/CwUxBSaJR4C0WlLhG_UWp252wMzmfl3NjPHeByT26oDK9hx9CEK8FxS8GdLRMXmtzBd1UKvmgg=s900-c-k-c0x00ffffff-no-rj"/>
       </a>
     </td>
     <td>
       <strong>Electronic Trading Desk</strong> <br>
-      <a href="[Link to Company Website]"><strong>CM Capital Markets</strong></a> • Present<br>
+      <a href="https://cmcapital.com.br/"><strong>CM Capital Markets</strong></a> • Present<br>
       Focused on:
         <ul>
             <li>Data and electronic order analysis using the FIX (Financial Information eXchange) Protocol format.</li>
             <li>Financial data manipulation using spreadsheets (Excel, including macros/VBA).</li>
             <li>Generation of monthly reports in Excel using data from trading platforms, extracted via FTP server or database.</li>
         </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="120px">
-      <a href="[Link to Another Company Website]">
-        <img align="left" height="94px" width="94px" alt="[Another Company]" src="[URL to Another Company Logo]"/>
-      </a>
-    </td>
-    <td>
-      <strong>[Your Previous Job Title]</strong> <br>
-      <a href="[Link to Another Company Website]"><strong>[Another Company]</strong></a> • [Duration] <br>
-      Brief description of your role and accomplishments.
     </td>
   </tr>
 </table>
@@ -131,13 +119,10 @@
 ## 📬 Contact
 
 <div align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:viniciussilva00514@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/vinicius-silva-a58b5a247/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </div>
