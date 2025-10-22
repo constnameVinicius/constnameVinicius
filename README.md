@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 
 ====================================================================================================================================
     HEADER SECTION
@@ -51,7 +49,7 @@
 ### 👨‍💻 Programming Languages:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,C#,csharp" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,cs" />
   </a>
 </p>
 
