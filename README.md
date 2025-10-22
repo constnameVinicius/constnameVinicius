@@ -1,12 +1,8 @@
-<!-- 
-====================================================================================================================================
-    HEADER SECTION
-    - This section can include a greeting, a banner image, or language selectors like in the example.
-====================================================================================================================================
--->
 <div align="center">
-  <!-- You can add a banner image here if you like -->
-  <!-- <h1>Your Name</h1> -->
+  <p>
+    <a href="README.md">English</a> •
+    <a href="README-pt.md">Português</a>
+  </p>
 </div>
 
 ## 👋 Hello! I'm Vinícius Silva
@@ -17,14 +13,6 @@
 - Pronouns: **He/Him**
 
 ---
-
-<!-- 
-====================================================================================================================================
-    GITHUB STATS SECTION
-    - This uses a third-party service (github-readme-stats) to generate dynamic stats cards.
-    - IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username.
-====================================================================================================================================
--->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=constnameVinicius&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -36,14 +24,6 @@
 
 ---
 
-<!-- 
-====================================================================================================================================
-    SKILLS SECTION
-    - This uses skillicons.dev to display technology icons.
-    - You can customize the list of icons by changing the 'i' parameter in the URL.
-    - Find the names of icons to use here: https://skillicons.dev/
-====================================================================================================================================
--->
 ## 🚀 Technologies & Tools
 
 ### 👨‍💻 Programming Languages:
@@ -75,14 +55,6 @@
 </p>
 
 ---
-
-<!-- 
-====================================================================================================================================
-    PROFESSIONAL EXPERIENCE SECTION
-    - A simple, clean way to list your work history.
-    - You can use basic HTML for better alignment and structure.
-====================================================================================================================================
--->
 ## 🧪 Professional Experience
 
 <table>
@@ -107,13 +79,6 @@
 
 ---
 
-<!-- 
-====================================================================================================================================
-    CONTACT SECTION
-    - This uses Shields.io for creating consistent-looking badges.
-    - Replace the links and email with your own.
-====================================================================================================================================
--->
 ## 📬 Contact
 
 <div align="left">
